@@ -1,0 +1,5 @@
+---
+# defaults file for ansible_file
+path: /tmp/test_ansible_file
+content: |
+  test succeeded!

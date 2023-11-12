@@ -1,0 +1,6 @@
+---
+# tasks file for ansible_file
+- name: Creating the File
+  alex.ansible_file.ansible_file:
+    path: "{{ path }}"
+    content: "{{ content }}"

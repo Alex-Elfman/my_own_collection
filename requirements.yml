@@ -1,0 +1,4 @@
+collections:
+  - name: https://github.com/Alex-Elfman/my_own_collection.git
+    type: git
+    version: ansible_file
